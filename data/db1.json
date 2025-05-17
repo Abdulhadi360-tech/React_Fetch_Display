@@ -1,0 +1,47 @@
+{
+    "students": [
+        {
+            "Name": "Umar Abdulhadi",
+            "Sex": "Male",
+            "Course": "Software Developmet",
+            "Location": "Abuja Nigeria",
+            "Reg_No": "FEC-001"
+        },
+        {
+            "Name": "Badmos Ambros",
+            "Sex": "Male",
+            "Course": "Data Science",
+            "Location": "Lagos Nigeria",
+            "Reg_No": "FEC-002"
+        },
+        {
+            "Name": "Chukwudi Adaku",
+            "Sex": "Female",
+            "Course": "Data Analysis",
+            "Location": "Imo Nigeria",
+            "Reg_No": "FEC-003"
+        },
+         {
+            "Name": "Faruk Jibrilu",
+            "Sex": "Male",
+            "Course": "Dev Could",
+            "Location": "Kano Nigeria",
+            "Reg_No": "FEC-005"
+        },
+         {
+            "Name": "Aebayo Ester",
+            "Sex": "Female",
+            "Course": "Data Analysis",
+            "Location": "Ondo Nigeria",
+            "Reg_No": "FEC-006"
+        },
+         {
+            "Name": "Kingsley Amadi Dayo",
+            "Sex": "Male",
+            "Course": "Game Developer",
+            "Location": "Enugu Nigeria",
+            "Reg_No": "FEC-007"
+        }
+
+    ]
+}
